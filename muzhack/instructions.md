@@ -33,6 +33,8 @@ Here’s [another version of the calculator as a Google Sheet](https://docs.goog
 The longer, tines are folded to take up less space, but as you can see, this is a skill that needs a bit of practice.
 
 # Cutting the tines — practice
+![dremel](https://cdn-images-1.medium.com/max/1200/1*S-88Ui0Ezb1esFkWvn8nkA.gif "Dremel")
+
 The spokes have a screw thread on one end, which is slightly larger than the rest of the rod, so needs to be removed before they’ll fit into the stoppers.
 
 I cut the tines with a Dremel, which worked fine and was pleasingly spectacular. Remember to smooth off the ends, because you’ll be playing them.
