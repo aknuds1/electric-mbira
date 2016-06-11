@@ -1,7 +1,7 @@
 # Parts
 ## The Tines
 * The tines are Titanium bicycle spokes, 14g grade, which are 2mm in diameter.
-* The rainbow-anodised spokes that Mbiraski uses can cost £90+ for a pack of 40, but I found an [eBay store selling](http://www.ebay.co.uk/itm/DT-SWISS-Ti-MMC-252mm-14G-TITANIUM-SPOKE-/121890033038?hash=item1c61364d8e:g:-TUAAOSwezVWuh7q) individual similar ones in raw (grey) titanium for £1.59 each and bought six. The matt texture of the titanium is nice.
+* The rainbow-anodised spokes that Mbiraski uses can cost £90+ for a pack of 40, but I found an [eBay store selling](http://www.ebay.co.uk/itm/DT-SWISS-Ti-MMC-252mm-14G-TITANIUM-SPOKE-/121890033038?hash=item1c61364d8e:g:-TUAAOSwezVWuh7q) individual similar ones in raw (grey) titanium for £1.59 each and bought six. The matte texture of the titanium is nice.
 * Detailed googling about [Young’s Modulus and Density](http://faculty.smu.edu/ttunks/projects/merrill/Mar_4.html) has left me pretty sure that steel spokes will work just as well — they’re a lot cheaper. I don’t think spokes with a plastic coating ([like these ones](http://www.chainreactioncycles.com/total-bmx-double-butted-spokes-rainbow/rp-prod138348?gs=1&gclid=CjwKEAjwm8-6BRDgnb-Dk96UmRASJADbMycY9XNSTb7DPxZ1BtqxDLbQL2oCNm0h8Xw6WM5Ovz5JDhoC4xfw_wcB&gclsrc=aw.ds)) would be very good.
 
 ## The Mounts
