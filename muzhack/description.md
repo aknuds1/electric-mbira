@@ -7,8 +7,8 @@ It showed a handful of brightly-coloured titanium rods; “Titanium [kalimba](ht
 
 That was how I discovered [Mbiraski](http://www.mbiraski.com/), which sells beautiful one-off thumb pianos , made in Japan, with built-in preamps and headphone amplifiers for £350-£400.
 
-<img src="https://cdn-images-1.medium.com/max/1600/1*rriYCEcBycmQPRHlVoOi2w.jpeg" width="33%">
-<img src="https://cdn-images-1.medium.com/max/800/1*ugAD53iOpYtr_S_kAOGwRA.jpeg" width="33%">
-<img src="https://cdn-images-1.medium.com/max/800/1*8XAsR8Hcw2JMOOJVsoZiUg.jpeg" width="33%">
+<img src="https://cdn-images-1.medium.com/max/1600/1*rriYCEcBycmQPRHlVoOi2w.jpeg">
+<img src="https://cdn-images-1.medium.com/max/800/1*ugAD53iOpYtr_S_kAOGwRA.jpeg">
+<img src="https://cdn-images-1.medium.com/max/800/1*8XAsR8Hcw2JMOOJVsoZiUg.jpeg">
 
 Inspired, I set out to make my own.
