@@ -14,7 +14,7 @@
 * I used a Hammond 1590B cast aluminium box, £7 from [Bitsbox](http://www.bitsbox.co.uk/), but you can work with any size/shape.
 * To amplify it, I attached two Piezo disks, ([similar to these from Maplin](http://www.maplin.co.uk/p/3v-ceramic-piezo-transducer-2718-yu87u)) to the bottom with quick drying epoxy glue, wired up to two 3.5mm sockets.
 
-[!mbira](https://cdn-images-1.medium.com/max/1600/1*727xLDPryJtz6qCEVfwcIQ.jpeg "Mbira")
+![mbira](https://cdn-images-1.medium.com/max/1600/1*727xLDPryJtz6qCEVfwcIQ.jpeg "Mbira")
 
 # Building it
 Once you have all the parts, construction is really simple and fast. Map out where you want your ‘bridges’ (it’s worth thinking about this more than I did), drill 2mm holes. Drill holes for the sockets, then bolt everything loosely into place.
@@ -37,7 +37,7 @@ The spokes have a screw thread on one end, which is slightly larger than the res
 
 I cut the tines with a Dremel, which worked fine and was pleasingly spectacular. Remember to smooth off the ends, because you’ll be playing them.
 
-[!Epoxy glue](https://cdn-images-1.medium.com/max/1600/1*7_ov1YF7MvcMsYJRrelbdA.jpeg "Epoxy glue to attach the piezo disks.")
+![Epoxy glue](https://cdn-images-1.medium.com/max/1600/1*7_ov1YF7MvcMsYJRrelbdA.jpeg "Epoxy glue to attach the piezo disks.")
 
 # Wiring and electrics
 I used two piezo disks. They’re more ‘directional’ than I expected, so it works well. I use [Mikrophonie](http://musicthing.co.uk/modular/?page_id=973) modules to amplify the disks through my modular (if you find the Mikrophonie module distorts — the mbira can put out big bassy sine waves — consider changing R10 from 56k to 10k to reduce gain). Google [‘piezo preamp’](https://www.google.co.uk/search?q=piezo+pre+amp&gws_rd=ssl) and you’ll find lots of projects.
