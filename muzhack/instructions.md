@@ -30,7 +30,7 @@ Using [Exmis Free Bar Length Calculator](http://windworld.com/features/tools-res
 
 Here’s [another version of the calculator as a Google Sheet](https://docs.google.com/spreadsheets/d/1kNvNHfqSURGooS-ai6XXqUu-obmRdH9696iBcRhrNjU/edit?usp=sharing), which I found easier to work with.
 
-The longer, tines are folded to take up less space, but as you can see, this is a skill that needs a bit of practice.
+The longer tines are folded to take up less space, but as you can see, this is a skill that needs a bit of practice.
 
 ## Cutting the tines — practice
 ![dremel](https://cdn-images-1.medium.com/max/1200/1*S-88Ui0Ezb1esFkWvn8nkA.gif "Dremel")
