@@ -12,3 +12,5 @@ That was how I discovered [Mbiraski](http://www.mbiraski.com/), which sells beau
 <img src="https://cdn-images-1.medium.com/max/800/1*8XAsR8Hcw2JMOOJVsoZiUg.jpeg" width="33%">
 
 Inspired, I set out to make my own.
+
+[!vimeo](169466406)

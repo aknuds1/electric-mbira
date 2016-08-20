@@ -49,8 +49,6 @@ Mbiraski uses piezo strips rather than disks, which should give a much more even
 ## Anodizing the tines
 Once the box is assembled, carefully hold the tines over a gas ring, and they will turn amazing blue/black colours.
 
-[!vimeo](169466406)
-
 # Improvements for next time
 * Plan the ergonomics — how will it fit into your hand and how will you play it? Mine doesn’t do either very well.
 * Plan the notes; work out a sensible range. Nearby or harmonically related notes will resonate with each other.
